@@ -1,7 +1,11 @@
-This study quantitatively analyses elements within OpenStreetMap (OSM) for Amsterdam Centrum that have the 'name' attribute filled and investigates the intrinsic quality parameters that contribute to the reliability of toponyms in OSM.
+This study quantitatively analyses elements within OpenStreetMap (OSM) for Amsterdam Centrum that have the 'name' attribute filled and investigates the intrinsic quality parameters that contribute to the reliability of toponyms in OSM. It is based on a previous study by Nunes and Camboim (2025).
 
 The workflow is as follows:
 <img width="958" height="702" alt="image" src="https://github.com/user-attachments/assets/b162f3ce-2522-4692-ae4e-df1b45f1f8e3" />
+
+### Licence ###
+
+The original study code and files were published with an MIT Licence. Since the current study's code is heavily based on theirs, and in order to promote open and reproducible research, this study adopts the same licence.
 
 ### Input Data and Jupyter Notebooks ###
 
@@ -19,7 +23,7 @@ Report: /OSM_Toponyms_AmsterdamCentrum_Report.pdf
 
 ### Results Folders ###
 
-The study started with a reproduction of a prior study by Nunes and Camboim (2025). The results obtained matched those of the prior study, which are publicly available and not included again here.
+The study started with a reproduction of the prior study by Nunes and Camboim (2025). The results obtained matched those of the prior study, which are publicly available and not included again here.
 
 The results for this study's main objective (replicating the analysis for Amsterdam Centrum with 100*100m grid cells) are found in the following folder:
 
