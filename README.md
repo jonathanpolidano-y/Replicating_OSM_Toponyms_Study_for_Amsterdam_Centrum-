@@ -16,3 +16,17 @@ The former extracts historical OSM data using the ohsome API. The latter perform
 A full explanation of the study, workflow, results, and how the input data files were prepared can be found in the study report.
 
 Report: /OSM_Toponyms_AmsterdamCentrum_Report.pdf
+
+### Results Folders ###
+
+The study started with a reproduction of a prior study by Nunes and Camboim (2025). The results obtained matched those of the prior study, which are publicly available and not included again here.
+
+The results for this study's main objective (replicating the analysis for Amsterdam Centrum with 100*100m grid cells) are found in the following folder:
+
+/results_amst_centrum_100m_full
+
+The secondary objective of this study was to examine the effects of mapping unit size on the results. The analysis was re-run on a smaller version of the study-area grid, first for the same spatial resolution then for 200*200m grid cells. Results for each respectively are found in:
+
+/results_ams_centwest_100m_trimmed
+
+/results_amst_centrum_200m_trimmed
