@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "onecell_test",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
-"xy_coordinate_resolution": 1e-15,
-"features": [
-{ "type": "Feature", "properties": { "id": 281, "left": 121000.0001, "top": 488100.0005, "right": 121100.0001, "bottom": 488000.0005, "row_index": 10, "col_index": 10 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 121000.0001, 488100.000500000023749 ], [ 121100.0001, 488100.000500000023749 ], [ 121100.0001, 488000.000500000023749 ], [ 121000.0001, 488000.000500000023749 ], [ 121000.0001, 488100.000500000023749 ] ] ] } }
-]
-}
