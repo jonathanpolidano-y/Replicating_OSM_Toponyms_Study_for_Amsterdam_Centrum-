@@ -6,3 +6,13 @@ The workflow is as follows:
 ### Input Data and Jupyter Notebooks ###
 
 The input datasets are GeoJSON files located in data/input_code1. The Jupyter notebooks generate dropdown widgets that allow the user to select the appropriate file.
+
+The notebooks are:
+-  notebooks/replic1_OsmEditHist_OHSOME_Grid.ipynb.
+-  notebooks/replic2_OsmToponyms_Analysis.ipynb.
+
+The former extracts historical OSM data using the ohsome API. The latter performs statistical analyses on the output file of the former.
+
+A full explanation of the study, workflow, results, and how the input data files were prepared can be found in the study report.
+
+Report: /OSM_Toponyms_AmsterdamCentrum_Report.pdf
